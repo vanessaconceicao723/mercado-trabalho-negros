@@ -17,7 +17,7 @@ data/
 ---
 
 ## 🔎 Fonte dos Dados
-Os dados são **públicos**, provenientes de microdados oficiais disponibilizados pela **Microdados da PNAD período de 2004 a 2014**.  
+Os dados são **públicos**, provenientes de microdados oficiais disponibilizados pela **PNAD período de 2004 a 2014**.  
 Foram tratados e organizados exclusivamente para fins técnicos, acadêmicos e demonstrativos.
 
 ---
