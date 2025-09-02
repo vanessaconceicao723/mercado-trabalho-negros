@@ -24,5 +24,5 @@ Foram tratados e organizados exclusivamente para fins técnicos, acadêmicos e d
 
 ## 📬 Contato
 👩‍💼 **Vanessa Martins Conceição**  
-Economista | Doutora em Economia | Mestre em Serviço Social  
+Economista | Doutoranda em Economia | Mestre em Serviço Social  
 CORECON/SC nº 3958  
